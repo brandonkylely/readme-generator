@@ -25,7 +25,9 @@
   ## Questions
 
   Contact Me:
+
   Github: https://github.com/brandonkly
+  
   Email: brandonkly@ucla.edu 
 
   
