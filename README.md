@@ -14,6 +14,8 @@
 
   Navigate to the folder containing this application in your terminal, and enter the command "node index.js" or "node .". If done correctly, you will be prompted with a series of questions. Complete every question to generate the README file for your project!
 
+ ![screenshot demo](./readmegen-screenshot.jpg)
+
   ## Contribution
 
   N/a
@@ -27,7 +29,7 @@
   Contact Me:
 
   Github: https://github.com/brandonkly
-  
+
   Email: brandonkly@ucla.edu 
 
   
