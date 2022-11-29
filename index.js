@@ -41,9 +41,15 @@ const questions = [
     },
     {
         type: "list",
-        message: "What is the license?",
+        message: "What kind of license would you like to use?",
         name: "license",
-        choices: ["MIT", "Apache", "GPLv3", "GPLv2", "BSD 3-clause", "BSD 2-clause", "LGPLv3", "AGPLv3", "Unlicensed"]
+        choices: [
+            {value: "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)", name: "MIT"}, 
+            {value: "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)", name: "Apache"},
+            {value: "[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)", name: "MPL"},
+            {value: "[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)", name: "ISC"}, 
+            {value: "[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)", name: "Unlicensed"},
+        ]
     },
 
 
