@@ -51,9 +51,16 @@ const questions = [
             {value: "[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)", name: "Unlicensed"},
         ]
     },
-
-
-
+    {
+        type: "input",
+        message: "What is your Github username?",
+        name: "github",
+    },
+    {
+        type: "input",
+        message: "What is your email?",
+        name: "email",
+    },
 ];
 
 // TODO: Create a function to write README file
