@@ -44,7 +44,7 @@
 
   Contact Me:
 
-  Github: https://github.com/brandonkly
+  Github: https://github.com/brandonkylely
 
   Email: brandonkly@ucla.edu 
 
