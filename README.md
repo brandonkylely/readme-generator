@@ -28,6 +28,8 @@
 
   Navigate to the folder containing this application in your terminal, and enter the command "node index.js" or "node .". If done correctly, you will be prompted with a series of questions. Complete every question to generate the README file for your project!
 
+  Video Demonstration here:https://youtu.be/Ihkjk4g_bWw
+
  ![screenshot demo](./readmegen-screenshot.jpg)
 
   ## Contribution
